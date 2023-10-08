@@ -1,0 +1,32 @@
+nav div a .Logo {
+  width: 100px;
+}
+
+.mb-3 {
+  width: 700px;
+  margin: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+
+div .st1 {
+  width: 100%;
+}
+
+.btn btn primary {
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 30px;
+}
+
+div .bannercontacto {
+  width: 100%;
+}
+
+footer .Redes {
+  display: inline;
+}
+footer .Redes1 {
+  display: inline-block;
+}
+footer .Redes1 {
+  margin: 30px;
+}/*# sourceMappingURL=contacto.css.map */

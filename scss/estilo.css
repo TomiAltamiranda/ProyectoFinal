@@ -1,0 +1,17 @@
+header nav div a .Logo {
+  width: 100px;
+}
+
+.banner {
+  width: 100%;
+}
+
+footer .Redes {
+  display: inline;
+}
+footer .Redes1 {
+  display: inline-block;
+}
+footer .Redes1 {
+  margin: 30px;
+}/*# sourceMappingURL=estilo.css.map */
